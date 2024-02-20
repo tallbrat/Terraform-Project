@@ -5,6 +5,8 @@ This repository contains the Terraform configuration files for provisioning infr
 ## Overview
 
 The infrastructure is provisioned using Terraform modules to create a Virtual Private Cloud (VPC), subnets, internet gateway, NAT gateway, route tables, security groups, and EC2 instances.
+![Alt text](Project-snapshot.jpg)
+
 
 ## Usage
 
